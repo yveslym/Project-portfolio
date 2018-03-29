@@ -36,3 +36,6 @@ Designed and developed from scratch an iOS app that reminds users via push notif
  ### 3 KalMoney
 
 Kalmoney is a money management iOS mobile application that gives users the ability to visualize and manage daily expenses on a calendar, set daily expense goals, receive a push notification when they exceed their goal, and allowing users to track their spendings by type, month, and location.
+
+client Repo:
+[client](https://github.com/yveslym/Core-Team-Project)
