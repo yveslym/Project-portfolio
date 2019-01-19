@@ -1,6 +1,6 @@
 # Project-portfolio
 
-This repo contain links to ongoing project and shipped project.
+This repo contain links to ongoing project and shipped App.
 
 ## project:
 
