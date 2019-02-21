@@ -13,7 +13,7 @@ With Make School Companion you can:
 * View student portfolios 
 * Gain access to useful student resources
 
-As iOS lead:
+As the iOS lead:
 * Design and build applications for the iOS platform
 * Ensure the performance, quality, and responsiveness of applications
 * Collaborate with a team to define, design, and ship new features
