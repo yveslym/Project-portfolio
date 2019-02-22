@@ -22,7 +22,7 @@ As the iOS lead:
 
 Note: If you're are interested to see the beta version, please contact me.
 
-#### Built with: Swift 4, Ruby on Rails
+#### Built with: Swift 4, Geo location, Bluetooth , iBeacon, Ruby on Rails
 
 ### 2. Trask:
 
@@ -52,7 +52,7 @@ A simple, Lightweight, and easy-to-use iOS location-based reminder app that uses
 Link to Repo: [Client](https://github.com/yveslym/remindMe)
 Link to Beta Test/ TestFlight : [GeoMinder](https://testflight.apple.com/join/do291tga)
 
-#### Built with: Swift 4, Firebase cloud function
+#### Built with: Swift 4,Geoloaction, Geofence, Firebase cloud function
 
 ### 2. ShowBix
 
@@ -88,7 +88,7 @@ to circular region (iOS built-in region).
 Square region is on product hunt with more than 10 endorsement.
 
 [on product hunt](https://www.producthunt.com/posts/square-region-geofence)
-#### Built with: Swift 4, Cocoapoads
+#### Built with: Swift 4, Cocoapoads, Geofence, Geolocation
 
 ### 2. Multi Users Generator:
 
