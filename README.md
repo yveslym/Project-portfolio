@@ -4,7 +4,7 @@ This repo is a show case of my contracting and personal project.
 
 ## Contract Job:
 
-### 1. Companion:
+### 1. Companion (on TestFlight):
 
 Make School Companion is a Make School student’s best friend. Make School Companion tracks student 
 attendance automatically, meaning that taking attendance will no longer eat into class lecture time.
@@ -22,9 +22,9 @@ As the iOS lead:
 
 Note: If you're are interested to see the beta version, please contact me.
 
-#### Built with: Swift 4, Geo location, Bluetooth , iBeacon, Ruby on Rails
+#### Built with: Swift 4, Geolocation, MapKit, Bluetooth, iBeacon, Ruby on Rails
 
-### 2. Trask:
+### 2. Trask [on AppStore](https://itunes.apple.com/us/app/trask/id1364258920?mt=8):
 
 Trask is an iOS app that help user to easily share their tasks.
 
@@ -35,22 +35,14 @@ on this project I:
 * I ruby and the rails framework to build the server.
 * I design and implement auto layout on every view controller on the client app.
 
-Link to appStore : [Trask](https://itunes.apple.com/us/app/trask/id1364258920?mt=8)
-
-client Repo: [client](https://github.com/ShennyO/Chore-Client-Development)
-
-server repo: [server](https://github.com/ShennyO/ChorekeeperServer)
 
 #### Built with: Swift 4, Ruby on Rails
 
 ## project:
 
-### 1. RemindMe:
+### 1. RemindMe [Beta Version](https://testflight.apple.com/join/do291tga):
 
 A simple, Lightweight, and easy-to-use iOS location-based reminder app that uses apple's geofencing and CoreLocation Api to send the user local notifications of reminders based on their locations. The main feature is the push notification reminder that alarms the user that he/she has enters within a radius of an address attached to a reminder. This will allow the user to always be on top of their non-urgent but important tasks or duties.
-
-Link to Repo: [Client](https://github.com/yveslym/remindMe)
-Link to Beta Test/ TestFlight : [GeoMinder](https://testflight.apple.com/join/do291tga)
 
 #### Built with: Swift 4,Geoloaction, Geofence, Firebase cloud function
 
@@ -79,7 +71,7 @@ client Repo: [client](https://github.com/yveslym/Core-Team-Project)
 
 ## Libraries:
 
-### 1. Square Region Geofence:
+### 1. Square Region Geofence [on product hunt](https://www.producthunt.com/posts/square-region-geofence):
 
 square region geofence is a lightweight geofence cocoapod library that allows developer
 to monitor a square region(when enter or leave a region). Square region is an alternative
@@ -87,10 +79,10 @@ to circular region (iOS built-in region).
 
 Square region is on product hunt with more than 10 endorsement.
 
-[on product hunt](https://www.producthunt.com/posts/square-region-geofence)
+
 #### Built with: Swift 4, Cocoapoads, Geofence, Geolocation
 
-### 2. Multi Users Generator:
+### 2. Multi Users Generator [npm package](https://www.npmjs.com/package/multi-users-generator):
 
 multi users generator is a small package that help you to generate the more 
 than thousand user within a line of code for your testing. multi users generator
@@ -98,7 +90,6 @@ use faker to generate the fake data
 
 multi users generator is download more 150+ time.
 
-[npm package](https://www.npmjs.com/package/multi-users-generator)
 
 #### Built with: NodeJs, Npm
 
